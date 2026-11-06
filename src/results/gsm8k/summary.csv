@@ -1,0 +1,5 @@
+agent,Attempted,Evaluated,Errors,Accuracy,First_Accuracy,EM,First_EM,F1,First_F1,Avg_Time,Avg_Tool_Calls,Avg_Trials,Reflection_Rate,Recovered,Regressed,Recovery_Rate
+Baseline,100,100,0,0.48,0.48,0.48,0.48,,,0.7134610419993987,0.0,1.0,0.0,0,0,0.0
+ReAct,100,100,0,0.59,0.59,0.59,0.59,,,2.2019387610004926,2.31,1.0,0.0,0,0,0.0
+Reflexion,100,100,0,0.47,0.42,0.47,0.42,,,3.2286848479992476,0.0,2.0,1.0,12,7,0.20689655172413793
+Hybrid,100,100,0,0.6,0.6,0.6,0.6,,,6.888150458999299,5.05,2.0,1.0,6,6,0.15
